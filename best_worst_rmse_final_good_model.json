@@ -1,0 +1,30 @@
+{
+  "Random Forest": {
+    "best": 0.02207677489810865
+  },
+  "LSTM": {
+    "best": 0.02322727933710564,
+    "worst": 0.8141822140581284,
+    "best_seq_len": 15,
+    "best_epochs": 200,
+    "worst_seq_len": 150,
+    "worst_epochs": 150
+  },
+  "GRU": {
+    "best": 0.02308415804854275,
+    "worst": 0.2157890805439321,
+    "best_seq_len": 15,
+    "best_epochs": 150,
+    "worst_seq_len": 100,
+    "worst_epochs": 150
+  },
+  "CNN": {
+    "best": 0.04655307531105664,
+    "worst": 0.07048500383323064,
+    "best_seq_len": 15,
+    "best_epochs": 100,
+    "worst_seq_len": 150,
+    "worst_epochs": 100
+  },
+  "final_best_model": "Random Forest"
+}
