@@ -1,1 +1,2 @@
 # Correlation-between-Social-Media-and-Stock-Market-in-Stock-Price-Prediction
+# Abstract—This project aims to develop a stock price prediction model that includes a feature of news data along with the previous stock. Through this project, we hope to contribute to the development of new techniques for using news data along with trends in stock prices to predict future stock prices and improve the accuracy of stock price prediction models.
